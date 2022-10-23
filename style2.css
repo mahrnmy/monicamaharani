@@ -1,0 +1,9 @@
+body {background-image: url(picture.jpg);
+	background-size: cover;
+	background-position: center;}
+nav {background-color: white;}			
+li {background-color: pink;}
+h1 {-webkit-text-stroke-color: black;
+	text-shadow: black;
+	-moz-text-decoration-color: black;
+	-webkit-text-fill-color: black;}
